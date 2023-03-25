@@ -105,7 +105,44 @@
 		"genre" : "Horror",
 		"IMDB_Rating" : 7.2,
 		"ticket" : 200
+	},
+  {
+		"id" : 3,
+		"poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC44LzEwICA4LjVLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00319185-recfcktmbq-portrait.jpg",
+		"title" : "Mrs Chattergys",
+		"director" : "Sam Raimi",
+		"year" : 2022,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+	},
+	{
+		"id" : 4,
+		"poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny4xLzEwICAyMDQgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00352801-cmkwnedsmk-portrait.jpg",
+		"title" : "Fullrani",
+		"director" : "Francis Lawrence",
+		"year" : 2007,
+		"genre" : "Horror",
+		"IMDB_Rating" : 7.2,
+		"ticket" : 200
+	},
+  {
+		"id" : 5,
+		"poster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny4xLzEwICAyMDQgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00352801-cmkwnedsmk-portrait.jpg",
+		"title" : "Fullrani",
+		"director" : "Francis Lawrence",
+		"year" : 2007,
+		"genre" : "Horror",
+		"IMDB_Rating" : 7.2,
+		"ticket" : 200
 	}
+],
+"User1":[
+ {
+  "Username":"Vaishnavi Chaudhari",
+  "Email":"vaishu@gmail.com",
+  "Password":"vaishu123"
+ }
 ]
 
   }
