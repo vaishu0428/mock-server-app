@@ -1,33 +1,31 @@
 {
-  "cars": [
+  "employees": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "fname": "Susan",
+      "lname": "Jordan",
+			"email":"susan@example.com",
+      "salary": 10000,
+      "date": "2019-04-11"
+     
     },
     {
       "id": 2,
-      "brand": "Tata",
-			"type":"AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "fname": "Rolf",
+      "lname": "Kanon",
+			"email":"srolf@example.com",
+      "salary": 20000,
+      "date": "2019-02-1"
     }
   ],
 "wishlisted_cars": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "fname": "Gride",
+      "lname": "Jord",
+			"email":"gride@example.com",
+      "salary": 50000,
+      "date": "2018-02-11"
     }
   ]
 }
