@@ -5,6 +5,7 @@
       "fname": "Susan",
       "lname": "Jordan",
 			"email":"susan@example.com",
+      "department":"Tech",
       "salary": 10000,
       "date": "2019-04-11"
      
@@ -14,6 +15,7 @@
       "fname": "Rolf",
       "lname": "Kanon",
 			"email":"srolf@example.com",
+      "department":"Marketing",
       "salary": 20000,
       "date": "2019-02-1"
     }
@@ -24,6 +26,7 @@
       "fname": "Gride",
       "lname": "Jord",
 			"email":"gride@example.com",
+      "department":"Operations",
       "salary": 50000,
       "date": "2018-02-11"
     }
