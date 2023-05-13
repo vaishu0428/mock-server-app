@@ -23,6 +23,14 @@
 		"Description": "Fresh and fruity strawberry ice cream.",
 		"Price": 300,
 		"Stock": 8
+	},
+	{
+		"id":4,
+		"name": "Scoch",
+		"Flavor": "Strawberry",
+		"Description": "Fresh and fruity strawberry ice cream.",
+		"Price": 200,
+		"Stock": 8
 	}
 ]
 }
